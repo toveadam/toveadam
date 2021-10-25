@@ -1,4 +1,5 @@
-### Hi there 👋
+                                      Hi there, My name is Tove 👋 
+Im a junior developer from Sweden 🇸🇪 living in Spain 🇪🇸 who is very excited to have found my passion for developing!
 
 <!--
 **toveadam/toveadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
