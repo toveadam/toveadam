@@ -1,8 +1,8 @@
-                                      Hi there, My name is Tove 👋 
+Hi there, My name is Tove 👋 
 I'm a junior developer from Sweden 🇸🇪 living in Barcelona 🇪🇸 who is very excited to have found my passion for developing!
 
 My interest for programming started a couple of years ago. With the opportunity presenting itself last year, I took the leap of joining a Full-Stack JS bootcamp in Barcelona. Since then, I have done self-studies and gotten to the level now where I'm getting comfortable with the code!
-I am now looking for an opportunity within Front-end development. 
+I am now looking for an opportunity within Front-end Development. 
 
 Knowing that not everything as to be known by heart, but that one rather wants have the mind of understanding a task. 
 So far, would say that:
