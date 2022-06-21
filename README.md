@@ -1,15 +1,13 @@
 Hi there, My name is Tove 👋 
-I'm a junior developer from Sweden 🇸🇪 living in Barcelona 🇪🇸 who is very excited to have found my passion for developing!
+I'm a software engineer from Sweden 🇸🇪 living in Barcelona 🇪🇸!
 
-My interest for programming started a couple of years ago. With the opportunity presenting itself last year, I took the leap of joining a Full-Stack JS bootcamp in Barcelona. Since then, I have done self-studies and gotten to the level now where I'm getting comfortable with the code!
-I am now looking for an opportunity within Front-end Development. 
+My interest for programming started a couple of years ago. With the opportunity presenting itself during the start of the pandemic, I took the leap of joining a Full-Stack JS bootcamp in Barcelona. Since then, I have done a lot of studying and I've worked as a merchant integrations engineer at Bolt One-Click checkout! 
 
-Knowing that not everything as to be known by heart, but that one rather wants have the mind of understanding a task. 
+Knowing that not everything as to be known by heart, but that one has the ability and urge to understand the work. 
 So far, would say that:
 What I don't know yet, I am confident I will be able to reach any expectations. 
-My understanding of CSS came right from the beginning, as thoughout life I've always enjoyed the design part of things.
 
-- 🔭 I’m currently studying towards a junior developer position
-- 🌱 I’m currently learning React, CSS, Express...
+- 🔭 I’m currently working at Bolt 
+- 🌱 I’m currently learning more about backend development
 - 📫 How to reach me: toveadamsson@gmail.com
-- ⚡ Fun fact: My obsession about the sunset or sunrise might be considered a bit over the top.
+- ⚡ Fun fact: My obsession about the sunset might be considered a bit over the top.
