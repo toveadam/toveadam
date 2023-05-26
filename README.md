@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tove Adamsson</h1>
 <h3 align="center">A passionate Software Engineer from Sweden, living in Barcelona</h3>
 
-- 🔭 I’m currently working on **My new website**
+- 🔭 I’m currently working on at Skyscanner as a Software Engineer
 
-- 🌱 I’m currently learning **more about Jest and AWS**
+- 🌱 I’m currently learning **Java and Typescript**
 
-- 📫 How to reach me **toveadamsson@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
